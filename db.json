@@ -1,0 +1,12 @@
+{
+	"Suppliers":[
+	{
+		"Name": "Honda",
+		"id": 1
+	},
+	{
+		"Name": "Campbell's",
+		"id": 2
+	}
+	]
+}
